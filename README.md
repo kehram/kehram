@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @kehram
-- 👀 I’m changed my study curriculum as I find good interest in coding
-- 🌱 I’m currently learning basis of C
-- 💞️ I’m looking for beginners like me who also has a great interest in it
+- 👋 Hi, I’m @kehram AKA Hasib
+- 👀 I’ve changed my study curriculum as I find good interest in coding
+- 🌱 I’m currently learning the basis of C and python
 - 📫 Reach me at hasibul.mamur@northsouth.edu
 
 <!---
