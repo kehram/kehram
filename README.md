@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kehram AKA Hasib
 - 👀 I’ve changed my study curriculum as I find good interest in coding
-- 🌱 I’m currently learning the basis of C and python
+- 🌱 I’m currently learning the basis of Artificial Intelligence in web development.
 - 📫 Reach me at hasibul.mamur@northsouth.edu
 
 <!---
